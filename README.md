@@ -1,47 +1,51 @@
-✨ Kodex API
+# 👋 Hi there, I'm Fahrizal Setiawan
+
+> "Coding is like magic, but sometimes the magic explodes 💥"  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Simple+REST+API;Fast+%E2%9A%A1+Clean+%F0%9F%A7%BC+Fun+%F0%9F%A4%8D;Built+with+Node.js+%26+Express" alt="Typing SVG" />
-</p><p align="center">
-  <b>Elegant.</b> <b>Simple.</b> <b>Little bit funny.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+Enthusiast;Bug+Hunter+%F0%9F%9A%80;Coffee+Powered+%E2%98%95" alt="Typing SVG" />
 </p>
----
-
-🧠 About
-
-Kodex API adalah REST API sederhana tapi niat. Dibuat buat belajar, eksperimen, dan kadang buat project serius (kadang juga buat iseng 😄).
-
-> "Kalau bisa simpel, kenapa harus ribet?" — Kodex
-
-
-
 
 ---
 
-🚀 Features
-
-⚡ Fast & lightweight
-
-🧩 Modular structure
-
-🔐 API Key ready
-
-📦 Easy to deploy (Render / Cyclic)
-
-😆 Error message manusiawi
-
-
+## 💻 About Me
+- 👨‍💻 Fullstack Developer & occasional bug whisperer
+- 🤖 AI tinkerer & automation addict
+- ☕ Powered by coffee & procrastination
+- 🏗 Always building, breaking, and rebuilding stuff
 
 ---
 
-🛠️ Tech Stack
+## 🔧 Skills
 
-Tech	Description
+| Frontend | Backend | Tools & Stuff |
+|----------|--------|---------------|
+| HTML/CSS/JS | Node.js/Express | Git / GitHub |
+| React / Next.js | Python / FastAPI | VSCode / Termux |
+| Tailwind / Bootstrap | MongoDB / MySQL | Docker / Render / Railway |
 
-🟢 Node.js	Runtime
-🚂 Express	REST Framework
-🌐 REST API	JSON-based
-☁️ Render	Free deployment
+---
+
+## 🌱 Currently Learning
+- AI & ML for fun projects
+- More Node.js wizardry
+- Trying not to break everything 😅
+
+---
+
+## 📫 How to reach me
+- Twitter / X: [@ravengranula21](https://twitter.com/ravengranula21)  
+- Email: `ravengranula21@gmail.com`  
+
+---
+
+## ⚡ Fun Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravengranula21&show_icons=true&theme=tokyonight&count_private=true&hide=prs)
+
+---
+
+> “Sometimes I code. Sometimes I sleep. Sometimes I code while sleeping.” 🛌💻☁️ Render	Free deployment
 
 
 
